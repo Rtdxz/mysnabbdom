@@ -1,0 +1,6 @@
+# mysnabbdom
+学习diff算法的底层实现
+
+通过模拟手写snabbdom一些关键代码来让自己更加深刻地理解diff算法
+
+完成的代码存在src中的mysnabbdom中
